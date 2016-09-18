@@ -1,0 +1,20 @@
+C:\Users\Jessica\Dropbox\MancalaGUI (1)\MancalaGUI\bin\x86\Debug\MancalaGUI.exe.config
+C:\Users\Jessica\Dropbox\MancalaGUI (1)\MancalaGUI\obj\x86\Debug\MancalaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Dropbox\MancalaGUI (1)\MancalaGUI\obj\x86\Debug\MancalaGUI.Form1.resources
+C:\Users\Jessica\Dropbox\MancalaGUI (1)\MancalaGUI\obj\x86\Debug\MancalaGUI.Form2.resources
+C:\Users\Jessica\Dropbox\MancalaGUI (1)\MancalaGUI\obj\x86\Debug\MancalaGUI.Form3.resources
+C:\Users\Jessica\Dropbox\MancalaGUI (1)\MancalaGUI\obj\x86\Debug\MancalaGUI.Properties.Resources.resources
+C:\Users\Jessica\Dropbox\MancalaGUI (1)\MancalaGUI\obj\x86\Debug\MancalaGUI.csproj.GenerateResource.Cache
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\bin\x86\Debug\MancalaGUI.exe.config
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\bin\x86\Debug\MancalaGUI.exe
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\bin\x86\Debug\MancalaGUI.pdb
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\bin\x86\Debug\ClassLibraryMancala.dll
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\bin\x86\Debug\ClassLibraryMancala.pdb
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\obj\x86\Debug\MancalaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\obj\x86\Debug\MancalaGUI.Form1.resources
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\obj\x86\Debug\MancalaGUI.Form2.resources
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\obj\x86\Debug\MancalaGUI.Form3.resources
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\obj\x86\Debug\MancalaGUI.Properties.Resources.resources
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\obj\x86\Debug\MancalaGUI.csproj.GenerateResource.Cache
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\obj\x86\Debug\MancalaGUI.exe
+C:\Users\Jessica\Dropbox\MancalaGUI\MancalaGUI\obj\x86\Debug\MancalaGUI.pdb
